@@ -1,7 +1,7 @@
 {
-  "name": "project-name",
+  "name": "quote-generator",
   "version": "1.0.0",
-  "description": "A description for your project.",
+  "description": "A random quote generator.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -19,8 +19,8 @@
   },
   "keywords": [],
   "author": {
-    "name": "YOUR NAME",
-    "url": "http://link-to-your-website.com"
+    "name": "Alex He",
+    "url": "http://alexhe.io"
   },
   "license": "MIT",
   "devDependencies": {
@@ -59,10 +59,10 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "http://link-to-your-git-repo.com"
+    "url": "http://github.com/ioalex/quote-generator.git"
   },
   "bugs": {
-    "url": "http://link-to-your-git-repo.com/issues"
+    "url": "http://github.com/ioalex/quote-generator/issues"
   },
-  "homepage": "http://link-to-your-git-repo.com#readme"
+  "homepage": "http://github.com/ioalex/quote-generator#readme"
 }
